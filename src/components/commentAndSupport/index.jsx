@@ -7,7 +7,7 @@ import particle from "../../assets/particl-dark.svg.svg";
 
 const CommentAndSupport = () => {
   return (
-    <div className="linerDarkBlue bg-[#0f1214]">
+    <div className="bg-[#0f1214]">
       <div className="w-[95%] mx-auto py-16 flex flex-col gap-5 max-[320px]:w-[90%]">
         <div className="flex  flex-col  gap-1">
           <p className="text-[14px] font-bold text-[#0073e6]">
